@@ -5,8 +5,11 @@
 ---
 
 **Вы можете связаться со мной**:
+
 **Telegram**: @D4us_M4chanicus
+
 **Gmail**: d4us.m4chanicus@gmail.com
+
 **Mail**: d.i.matveev7@mail.ru
 
 ---
