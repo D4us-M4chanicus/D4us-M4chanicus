@@ -1,4 +1,4 @@
-## «Hello, World!» :hugs:
+## «Hello, World!»
 
 Меня зовут Даниил. Я Python-разработчик, ML/DL-инженер.
 
