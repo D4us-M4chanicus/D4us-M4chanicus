@@ -26,7 +26,7 @@
 
 📌 RAG-система - [**нейроинструктор по саморазвитию**](https://github.com/D4us-M4chanicus/Neuro-employee.git).
 
-📌 [**Обработка текста. Классификация авторов по стилю.**](https://github.com/D4us-M4chanicus/Text-processing.git).
+📌 [**Обработка текста. Классификация авторов по стилю**](https://github.com/D4us-M4chanicus/Text-processing.git).
 
 📌 [**Telegram-бот для проведения викторин**](https://github.com/D4us-M4chanicus/Telegram-quiz-bot.git).
 
