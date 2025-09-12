@@ -6,7 +6,7 @@
 
 **Вы можете связаться со мной**:
 
-**Telegram**: @D4us_M4chanicus
+**Telegram**: t.me/D4us_M4chanicus
 
 **Gmail**: d4us.m4chanicus@gmail.com
 
