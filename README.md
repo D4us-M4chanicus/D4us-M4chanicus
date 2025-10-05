@@ -12,7 +12,7 @@
 
 - **Telegram**: https://t.me/D4niil_M4tveev
 
-- **Gmail**: mailto:d.i.m4tveev7@gmail.com
+- **Gmail**: d.i.m4tveev7@gmail.com
 
 - **Mail**: d.i.matveev7@mail.ru
 
