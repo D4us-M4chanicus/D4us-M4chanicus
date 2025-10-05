@@ -10,11 +10,11 @@
 
 **Вы можете связаться со мной**:
 
-**Telegram**: https://t.me/D4niil_M4tveev
+- [**Telegram**](https://t.me/D4niil_M4tveev);
 
-**Gmail**: d.i.m4tveev7@gmail.com
+- [**Gmail**](d.i.m4tveev7@gmail.com);
 
-**Mail**: d.i.matveev7@mail.ru
+- [**Mail**](d.i.matveev7@mail.ru).
 
 ---
 
