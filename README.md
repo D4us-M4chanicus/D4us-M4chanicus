@@ -1,41 +1,39 @@
 ## «Hello, World!»
 
-Меня зовут Даниил.
+My name is Daniil.
 
-Я Python-разработчик, ML/DL-инженер.
+I am a Python-developer, ML/DL-engineer.
 
-В 2025 году завершил обучение в [Академии нейросетей](https://academy.the-founder.ru) по программе "Разработчик нейросетей": [Диплом](Диплом_Разработчик_нейросетей.pdf).
+In 2025, I graduated from the [Neural Networks Academy](https://academy.the-founder.ru) with a degree in "Neural Network Developer": [Diploma](Диплом_Разработчик_нейросетей.pdf).
 
 ---
 
-**Вы можете связаться со мной**:
+**You can contact me**:
 
 - **Telegram**: https://t.me/D4niil_M4tveev
-
 - **Gmail**: d.i.m4tveev7@gmail.com
-
 - **Mail**: d.i.matveev7@mail.ru
 
 ---
 
-**PET-проекты**:
+**PET-projects**:
 
-📌 **AI CHAT**, приложение позволяющее получить доступ к различным нейронным сетям через API. [**Написанное для Android с использованием фреймворка Flet на языке Python**](https://github.com/D4us-M4chanicus/AI-CHAT-android-app.git), а также [**кросплатформенный и улучшенный вариант написанный с использованием фреймворка Flutter на языке Dart**](https://github.com/D4us-M4chanicus/AI-CHAT-cross-platform-app.git).
+📌 **AI CHAT**, an application that allows access to various neural networks via API. [**Written for Android using the Flet framework in Python**](https://github.com/D4us-M4chanicus/AI-CHAT-android-app.git), as well as [**cross-platform and improved version written using the Flutter framework in Dart**](https://github.com/D4us-M4chanicus/AI-CHAT-cross-platform-app.git).
 
-📌 [**Система аудиоперевода в реальном времени с клонированием голоса**](https://github.com/D4us-M4chanicus/Audio-translator.git).
+📌 [**Real-time audio translation system with voice cloning**](https://github.com/D4us-M4chanicus/Audio-translator.git).
 
-📌 [**Применение вариационного автокодировщика (VAE) для создания изображений лиц**](https://github.com/D4us-M4chanicus/Variational-Autoencoder.git).
+📌 [**Application of Variational Autoencoder (VAE) for generating face images**](https://github.com/D4us-M4chanicus/Variational-Autoencoder.git).
 
-📌 Исследование архитектур модели U-Net для [**сегментации рентгеновских снимков лёгких**](https://github.com/D4us-M4chanicus/Image-segmentation.git), а также для [**удаления водяных знаков с изображений**](https://github.com/D4us-M4chanicus/Removing-watermarks.git).
+📌 Research on U-Net model architectures for [**segmentation of X-ray images of the lungs**](https://github.com/D4us-M4chanicus/Image-segmentation.git), as well as for [**removing watermarks from images**](https://github.com/D4us-M4chanicus/Removing-watermarks.git).
 
-📌 RAG-система - [**нейроинструктор по саморазвитию**](https://github.com/D4us-M4chanicus/Neuro-employee.git).
+📌 [**RAG system - neuro-instructor for self-development**](https://github.com/D4us-M4chanicus/Neuro-employee.git).
 
-📌 [**Обработка текста. Классификация авторов по стилю**](https://github.com/D4us-M4chanicus/Text-processing.git).
+📌 [**Text processing. Author classification by style**](https://github.com/D4us-M4chanicus/Text-processing.git).
 
-📌 [**Telegram-бот для проведения викторин**](https://github.com/D4us-M4chanicus/Telegram-quiz-bot.git).
+📌 [**Telegram-bot for conducting quizzes**](https://github.com/D4us-M4chanicus/Telegram-quiz-bot.git).
 
-📌 [**Классификация изображений рукописных букв с использованием полносвязной нейронной сети**](https://github.com/D4us-M4chanicus/Handwritten-letter-recognition.git) и [**использование модели EfficientNetV2B0 для классификации пород собак на изображении**](https://github.com/D4us-M4chanicus/Dog-Breed-Classification.git).
+📌 [**Classification of handwritten letter images using a fully connected neural network**](https://github.com/D4us-M4chanicus/Handwritten-letter-recognition.git) and [**using the EfficientNetV2B0 model for classifying dog breeds in images**](https://github.com/D4us-M4chanicus/Dog-Breed-Classification.git).
 
-📌 [**Изучение различных алгоритмов машинного обучения для решения задач классификации**](https://github.com/D4us-M4chanicus/Algorithms-for-classification-problems.git).
+📌 [**Studying various machine learning algorithms for solving classification problems**](https://github.com/D4us-M4chanicus/Algorithms-for-classification-problems.git).
 
-🔍 [**Прочее**](https://github.com/D4us-M4chanicus?tab=repositories).
+🔍 [**Other**](https://github.com/D4us-M4chanicus?tab=repositories).
