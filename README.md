@@ -4,7 +4,7 @@ My name is Daniil.
 
 I am a Python-developer, ML/DL-engineer.
 
-In 2025, I graduated from the [Neural Networks Academy](https://academy.the-founder.ru) with a degree in "Neural Network Developer": [Diploma](Диплом_Разработчик_нейросетей.pdf).
+In 2025, I graduated from the [«Neural Networks Academy»](https://academy.the-founder.ru) with a degree in «Neural Network Developer»: [Diploma](Диплом_Разработчик_нейросетей.pdf).
 
 ---
 
